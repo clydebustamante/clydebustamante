@@ -2,11 +2,6 @@
   Clyde Bustamante
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80px"/>
 </h2>
-
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   
 ```python
 class AppDev:
