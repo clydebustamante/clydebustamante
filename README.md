@@ -26,7 +26,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Tools-Flutter-02569B?logo=flutter&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Style-CSS3-0074D9?logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Code-JavaScript-8A2BE2?logo=javascript&logoColor=F7DF1E"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Service-Firebase-FFA000?logo=firebase&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?logo=mysql&logoColor=white"/>&nbsp;
   <image src="https://img.shields.io/badge/OS-Window-0078D6?logo=windows&logoColor=white">
