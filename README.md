@@ -26,6 +26,7 @@ me.say_hi()
 
 <div>
   <img src="https://img.shields.io/badge/Platform-Xamarin-3498DB?logo=xamarin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-VS_Code-0078d7?logo=visualstudio"/>
    <img src="https://img.shields.io/badge/Tools-Figma-F24E1E?logo=figma&logoColor=white" title="Figma" alt="figma" />&nbsp;
   <img src="https://img.shields.io/badge/Tools-Flutter-02569B?logo=flutter&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Style-CSS3-0074D9?logo=css3&logoColor=white"/>&nbsp;
