@@ -3,7 +3,10 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80px"/>
 </h2>
 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" />
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   
 ```python
 class AppDev:
@@ -36,5 +39,4 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?logo=mysql&logoColor=white"/>&nbsp;
   <image src="https://img.shields.io/badge/OS-Window-0078D6?logo=windows&logoColor=white">
 </div>
-
 
