@@ -2,9 +2,8 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-    
 ```python
-class AppDev:
+class AppDeveloper:
 
     def __init__(self):
         self.name = "Clyde Bustamante"
@@ -13,14 +12,12 @@ class AppDev:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = AppDev()
+me = AppDeveloper()
 me.say_hi()
 ```
-<h5>
+<h4>
 :hammer_and_wrench: Languages and Tools :
-</h5>
+</h4>
 
 <div>
   <img src="https://img.shields.io/badge/Platform-Xamarin-3498DB?logo=xamarin&logoColor=white"/>
