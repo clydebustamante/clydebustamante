@@ -2,7 +2,10 @@
   Clyde Bustamante
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80px"/>
 </h2>
-  
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
+    
 ```python
 class AppDev:
 
