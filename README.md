@@ -1,6 +1,6 @@
 <h2>
   Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80px"/>
 </h2>
 
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" />
