@@ -1,19 +1,43 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100" />
-</div>
-<div id="badges" align="center">
-  <a href="https://www.facebook.com/xkito.xkito.7">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="pageview" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" />
-</div>
+<h2>
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 
-<hr>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet" />
+  
+```ruby
+class Kly < Person
+  def initialize
+    @name = 'Clyde Bustamante'
+    @age = 22
+    @role = 'UI/UX Designer'
+    @education = [ 'MES', 'MNHS' 'MSH', 'CTU - AC' ]
+    @hobbies = 'Reading Mangas/Manhwas/Manhuas'
+  end
+
+  def current_location
+    'Cebu City, Philippines'
+  end
+
+  def next_locations
+    ['Lisbon, PT', 'Barcelona, ESP']
+  end
+
+  def currently
+    {
+      studying: [ 'Network Security' ],
+      reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+      tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+     }
+  end
+end
+```
 
 ### :man_technologist: About Me :
-<hr>
+- asdsdasdsad
+  
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" title="Figma" alt="Java" width="40" height="40"/>&nbsp;
@@ -34,3 +58,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png )
+
+
