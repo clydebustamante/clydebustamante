@@ -15,9 +15,8 @@ class AppDeveloper:
 me = AppDeveloper()
 me.say_hi()
 ```
-<h4>
-:hammer_and_wrench: Languages and Tools :
-</h4>
+
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://img.shields.io/badge/Platform-Xamarin-3498DB?logo=xamarin&logoColor=white"/>
@@ -31,4 +30,10 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Tools-MySQL-4479A1?logo=mysql&logoColor=white"/>&nbsp;
   <image src="https://img.shields.io/badge/OS-Window-0078D6?logo=windows&logoColor=white">
 </div>
+
+## Support
+
+<a href="https://ko-fi.com/clybustamante">☕ Buy me a coffee</a>
+
+
 
